@@ -1,6 +1,6 @@
 name: fule_text
 description: A text widget that can automatically adapt to the width of the parent widget.
-version: 0.1.0
+version: 0.1.1
 author: Xuhao Yang
 homepage: https://github.com/NeedSSD/fule_text
 
